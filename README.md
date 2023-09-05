@@ -1,6 +1,6 @@
 # Alejandro Velazco Rodriguez 👋
 
-![Banner Image Placeholder](https://your-banner-image-url)
+<!-- ![Banner Image Placeholder](https://your-banner-image-url) -->
 
 👨‍💻 **Systems Engineer** | 🛠️ **Fullstack Developer** | 🎓 **Master's Student in Python & Data Science** | 🌐 **Blockchain Enthusiast**
 
@@ -15,9 +15,9 @@ Hello there! I am a Systems Engineer from the Metropolitan University in Caracas
 💼 [Portfolio](https://alevelazco.tech)  
 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-velazco-rodriguez-849785169/)  
 📊 [Kaggle](https://www.kaggle.com/spectrox0)  
-📧 For business inquiries: `alejanvelazco2008@protomail.com`
+📧 For business inquiries: `alejanvelazco2008@proton.me`
 
-![Profile Image Placeholder](https://your-profile-image-url)
+<!-- ![Profile Image Placeholder](https://your-profile-image-url) My setup image -->
 
 ## Skills 🔧
 
@@ -57,7 +57,7 @@ Hello there! I am a Systems Engineer from the Metropolitan University in Caracas
 - Scrapy , BeautifulSoup
 - Tesseract
 
-![Skills Image Placeholder](https://your-skills-image-url)
+<!-- ![Skills Image Placeholder](https://your-skills-image-url) -->
 
 ## Education 📚
 
@@ -65,12 +65,12 @@ Hello there! I am a Systems Engineer from the Metropolitan University in Caracas
 
   - **Institution**: EIP International Business School, Malaga, Spain
   - **Duration**: Ongoing
-    ![Master's Certificate Placeholder](https://master-certificate-url)
+    <!-- ![Master's Certificate Placeholder](https://master-certificate-url) -->
 
 - **B.Sc. Systems Engineering**
   - **Institution**: Metropolitan University, Caracas, Venezuela
   - **Duration**: September 2015 - December 2020
-    ![Bachelor's Certificate Placeholder](https://bachelor-certificate-url)
+    <!-- ![Bachelor's Certificate Placeholder](https://bachelor-certificate-url) -->
 
 ## Interests 🎯
 
