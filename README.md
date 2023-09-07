@@ -24,8 +24,8 @@ Hello there! I am a Systems Engineer from the Metropolitan University in Caracas
 ### Web & Mobile Development 🌐📱
 
 - Angular, React, Vue, Next.js, Nest.js, Nuxt.js, Gatsby
-- Django, Laravel, Flask, FastAPI, Echo , Rocket, Nest.js, Express
-- Tailwind.css, Sass, Socket.io
+- Django, Laravel, Flask, FastAPI, Echo , Rocket, Nest.js, Express.js , Socket.io
+- Css , Tailwind.css, Sass
 - React Native, Flutter
 
 ### DevOps & Cloud ☁️🛠
